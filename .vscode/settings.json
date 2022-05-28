@@ -1,0 +1,21 @@
+{
+    "cSpell.words": [
+        "alguns",
+        "Aqui",
+        "espero",
+        "estão",
+        "gostem",
+        "Hamburguer",
+        "meus",
+        "projetos",
+        "Vindos"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:Transitions}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
