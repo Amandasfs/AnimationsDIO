@@ -14,5 +14,4 @@
 
 🤍 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/Criar%20Icones">Menu Hamburguer</a>
 
-![cat](name-of-giphy.gif)
-[https://tenor.com/view/cat-type-fast-busy-kitten-gif-16655467](https://tenor.com/bh20J.gif)
+![https://tenor.com/view/cat-type-fast-busy-kitten-gif-16655467](https://tenor.com/bh20J.gif)
