@@ -5,7 +5,7 @@ Projeto Referencia: https://github.com/SpruceGabriela/DIO-animations-aulas
 
 ### Arquivos do Projeto
 
-🤍 Cards https://github.com/Amandasfs/AnimationsDIO/tree/main/Card
+🤍 [ Cards (https://github.com/Amandasfs/AnimationsDIO/tree/main/Card)]
 
 🤍 Icone https://github.com/Amandasfs/AnimationsDIO/tree/main/Criar%20Icones
 
