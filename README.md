@@ -6,10 +6,12 @@
 
 🤍 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/Card">Cards </a>
 
-🤍 Icone https://github.com/Amandasfs/AnimationsDIO/tree/main/Criar%20Icones
+🤍 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/Criar%20Icones">Icone</a>
 
-🧡 Projeto Principal https://github.com/Amandasfs/AnimationsDIO/tree/main/Projeto%20Principal
+🧡 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/Projeto%20Principal">Projeto Principal</a>
 
-🤍 Key Frames https://github.com/Amandasfs/AnimationsDIO/tree/main/KeyFrames
+🤍 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/KeyFrames">Key Frames</a>
 
-🤍 Menu Hamburguer https://github.com/Amandasfs/AnimationsDIO/tree/main/Criar%20Icones
+🤍 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/Criar%20Icones">Menu Hamburguer</a>
+
+![gatinho](https://tenor.com/view/cat-type-fast-busy-kitten-gif-16655467)
