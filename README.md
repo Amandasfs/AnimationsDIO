@@ -8,7 +8,7 @@
 
 🤍 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/Criar%20Icones">Icone</a>
 
-🧡 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/Projeto%20Principal">Projeto Principal</a>
+💜 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/Projeto%20Principal">Projeto Principal</a>
 
 🤍 <a href="https://github.com/Amandasfs/AnimationsDIO/tree/main/KeyFrames">Key Frames</a>
 
